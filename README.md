@@ -1,0 +1,2 @@
+# ChatModes
+VSCode Chat modes
