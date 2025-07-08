@@ -11,11 +11,6 @@
 - [🎯 Vue d'ensemble](#-vue-densemble)
 - [🚀 Installation](#-installation)
 - [📚 Modes Disponibles](#-modes-disponibles)
-- [⚡ Usage Rapide](#-usage-rapide)
-- [📖 Guide Détaillé](#-guide-détaillé)
-- [🛠️ Configuration](#️-configuration)
-- [🤝 Contribution](#-contribution)
-- [📄 License](#-license)
 
 ## 🎯 Vue d'ensemble
 
