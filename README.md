@@ -39,8 +39,11 @@
 2. **Copiez les fichiers vers votre dossier ChatModes :**
     ```powershell
     Copy-Item "*.chatmode.md" "$env:USERPROFILE\Documents\ChatModes\"
+3. **Ajouté votre ChatMode :**
+    ![image](https://github.com/user-attachments/assets/a3cae9be-5001-4b86-83e7-a39046f50008)
 
-3. **Redémarrez VS Code pour charger les nouveaux modes**
+
+4. **Redémarrez VS Code pour charger les nouveaux modes**
 
 ## 📚 Modes Disponibles
 
