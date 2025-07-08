@@ -2,7 +2,7 @@
 
 > Une collection complète de modes de chat spécialisés pour GitHub Copilot, conçue pour optimiser votre workflow de développement.
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/user/chatmodes)
+[![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/user/chatmodes)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Copilot](https://img.shields.io/badge/GitHub-Copilot-000000.svg?logo=github)](https://github.com/features/copilot)
 
